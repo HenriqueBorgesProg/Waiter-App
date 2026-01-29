@@ -9,7 +9,8 @@ O sistema permite o envio e acompanhamento de pedidos, integrando diferentes apl
 ##Vídeo de Apresentação
 
  **Demonstração do projeto:**  
-https://github.com/user-attachments/assets/5fa423a4-21f8-4ed1-bf07-017eb17edf67
+<video src="https://github.com/user-attachments/assets/5fa423a4-21f8-4ed1-bf07-017eb17edf67" controls width="100%"></video>
+
 
 *(O vídeo apresenta o funcionamento da aplicação, fluxo de pedidos e integração entre as partes do sistema.)*
 

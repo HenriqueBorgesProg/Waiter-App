@@ -34,5 +34,3 @@ O sistema permite o envio e acompanhamento de pedidos, integrando diferentes apl
 ---
 
 Projeto feito em conjunto ao curso do JSTACK
-
-Autor: Henrique Borges.
